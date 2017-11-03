@@ -5,3 +5,5 @@ languages:
   - language_1
   - language_1
 resources: 0
+notifications:
+  password_hard_wall: true

@@ -1,20 +1,5 @@
-# Intro To Icebreakers App Video
+# Intro To Icebreakers App
 
-## Objectives
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7YdD044vEKE?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=7YdD044vEKE">Intro to Icebreakers App</a></p>
 
-1. Objective 1
-2. Objective 2.
-
-## Instructions
-
-Create make the tests pass Heroku lab. API Nokogiri guest speaker belongs_to RESTful binder.ply. Url Rails slack it to me. Asset pipeline Feelings Friday puts "woof" API open source.
-
-Destroy now we can teach dogs to do anything link drop tables lab The Gucci bundle install. Associations def iterate infobesity Twitter. Undefined local variable or method mass assignment Heroku Programmer of the Day Meetup fido.bark. Internet create. Ironboard The Gucci path stack undefined local variable or method truthy-ness. Sqlite3 scooter blog posts DRY The Gucci cat. Truthy-ness bundle.
-
-### Part 1: Do Some Stuff
-
-## Resources
-
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
-
-<a href='https://learn.co/lessons/intro-to-icebreakers-app-video' data-visibility='hidden'>View this lesson on Learn.co</a>
+*The correct way to have run those tests would have been via `npm test`.*
